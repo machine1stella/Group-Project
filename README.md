@@ -1,6 +1,6 @@
 # Group-Project
 ## Files:
-- original_code-Copy1.ipynb (Code me found on salesman tabu search problem)
+- original_code-Copy1.ipynb (Code found on salesman tabu search problem)
 - tabu.py (did some change on the previous origianl file, and save the origin code as py.file )
 - Multiprocess.ipynb (to do the parallel, me need to import the tabu.py above.)
 
