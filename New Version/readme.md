@@ -12,7 +12,5 @@
 - 5. It returns a list which contain 30 optimal answers (best answer for each routes)
 - 6. At end, `finalanswer` helps find the best amoung these 30 answers. and return the star-end city number, the travel distacne and route.
 
-## Details:
-- Open try.ipynb
-- 
+
 
